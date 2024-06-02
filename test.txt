@@ -1,3 +1,0 @@
-[{"titular": "Voxl", "texto": "Cuerpo_texto1"}, {"titular":dfafs, "texto": "Cuerpo_texto2"}] 
-
-
